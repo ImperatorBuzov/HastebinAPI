@@ -11,7 +11,6 @@ import java.net.URL;
 
 public class HastebinAPI
 {
-  public HastebinAPI() {}
   
   public static String newHaste(String contents) throws IOException
   {
