@@ -3,7 +3,7 @@
    # How to install HastebinAPI?
    
    Add the HastebinAPI.jar library to your project
-   Install in your project Gson
+   and Install in your project Gson
    
    # How to find the link and paste?
    
